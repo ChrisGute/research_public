@@ -1,0 +1,9 @@
+{
+  "version": "3.0",
+  "skillVersion": "8.14.1",
+  "port": 5181,
+  "glossaryEnrichment": true,
+  "gitRepo": "https://github.com/ChrisGute/research_public.git",
+  "libraries": [],
+  "projects": []
+}
